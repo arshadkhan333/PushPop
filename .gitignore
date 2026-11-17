@@ -1,0 +1,6 @@
+# This PC's own saved state, log and copies of repo history.
+data/
+# Builds for sharing, made from this folder.
+*.zip
+# Real email addresses used by local tests. Never published.
+tests/identities.local.csv

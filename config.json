@@ -1,0 +1,30 @@
+{
+  "pollSeconds": 60,
+  "idleLimitSeconds": 120,
+  "figureHeight": 480,
+  "showSeconds": 4.5,
+  "volume": 0.8,
+  "people": {
+    "arshad": {
+      "display": "Arshad",
+      "names": ["Arshad", "Mohammed Arshad Zareef Khan"],
+      "emails": ["sha256:7ba6d188d3c31d84f4cb19e96955aaf8f63eace426860e56db64609a524eacc6"],
+      "video": "assets/cat.mp4",
+      "figure": "assets/cat-still.png",
+      "sound": "assets/sound.wav"
+    },
+    "aamir": {
+      "display": "Aamir",
+      "names": ["Mohmed Aamir Ali Khan"],
+      "emails": ["sha256:23ae4c6ad9168dd000720ea08df3a0d0ca843a933fe8f43bb83bc78001eafca9", "sha256:23c621a3821a6957385f572e5f4b07f5662c688c2ed3f5813b0da11715ff1f18"],
+      "video": "assets/cat.mp4",
+      "figure": "assets/cat-still.png",
+      "sound": "assets/sound.wav"
+    }
+  },
+  "repos": [
+    { "name": "G", "url": "https://github.com/Aamirmaak/G.git" },
+    { "name": "Sonderbloom", "url": "https://github.com/Aamirmaak/Sb.git" },
+    { "name": "GENRA website", "url": "https://github.com/MohdHamza2/STARTUP_WEBSITE.git" }
+  ]
+}
